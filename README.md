@@ -37,6 +37,6 @@ I’m a programming student! Focused on **Java, Spring Boot, React** and **Next.
 ---
 
 ### 📫 Let’s connect!
-[Portfolio](https://calebe.vercel.app) • [LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) • [Email](@calebehillesheimlamb@gmail.com)
+[Portfolio](https://calebe.vercel.app) • [LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) • [Email](mailto:@calebehillesheimlamb@gmail.com)
 
 ---
