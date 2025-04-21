@@ -32,7 +32,7 @@ I’m a programming student! Focused on **Java, Spring Boot, React** and **Next.
 
 ### 🌱 Projects I’m working on:
 - ☀️ **BreezyForecast** — Weather App  
-- 💬 **Wriditt** — Reddit-style fullstack app (WIP!)
+- 💬 **Wriditt** — Reddit-style fullstack app
 
 ---
 
