@@ -1,12 +1,12 @@
 #  Calebe
 
-I’m a programming student! Now focused on FrontEnd with **React, Next.js** and **TailwindCSS**, i'm also insterested in Backend.
+Hello, i am ***Calebe***, 15 years, software developer! Now focused on frontend with **Next.js** and **TailwindCSS**, i'm also insterested in Backend with **Golang**.
 
 **Goal:** Become a software engineer and work abroad, Switzerland is the dream.
 
 ---
 
-### Tech Stack:
+### I mess around with
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -17,8 +17,9 @@ I’m a programming student! Now focused on FrontEnd with **React, Next.js** and
 ---
 
 ### Currently Learning:
-- C#
-- Clean Architecture & scalable design  
+- Golang
+- System architeture
+- How to live 
 
 ---
 
@@ -29,12 +30,13 @@ I’m a programming student! Now focused on FrontEnd with **React, Next.js** and
 ---
 
 ### Projects I’m working on:
-- **BreezyForecast-V2** - a Weather App  
-- **MineCLI Installer** - Package manager for minecraft using C# 
+- **Sineum** - a Blog with its own API built with Golang
+- BreezyForecast-V2 - a Weather App  
+- MineCLI Installer - Package manager for minecraft using C# 
 
 ---
 
-### Let’s connect!
+### Wanna talk with me?
 [Portfolio](https://calebe.vercel.app) • [LinkedIn](https://www.linkedin.com/in/calebe-hillesheim-lamb-5a86792a5/) • [Email](mailto:@calebehillesheimlamb@gmail.com)
 
 ---
